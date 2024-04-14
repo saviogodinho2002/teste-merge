@@ -8,5 +8,6 @@ int main(){
 
 int calculo(int a, int b){
 	a = a*a;
+	b = b*3 - b/2;
  return a+b;
 }
