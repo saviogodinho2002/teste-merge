@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	int result = calculo(2,2);
-    printf("%d",result);
+	int resultFOda = calculo(2,2);
+    printf("o resultado foi %d",resultFOda);
     return 0;
 }
 
